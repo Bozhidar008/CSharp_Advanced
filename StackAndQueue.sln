@@ -5,7 +5,7 @@ VisualStudioVersion = 17.2.32505.173
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseString", "ReverseString\ReverseString.csproj", "{6F81CADC-4CA6-4232-9239-7395FA1203C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleCalculator", "SimpleCalculator\SimpleCalculator.csproj", "{DDB8DE83-F4A9-493C-B51D-1D586A7C2160}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleCalculator", "SimpleCalculator\SimpleCalculator.csproj", "{DDB8DE83-F4A9-493C-B51D-1D586A7C2160}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
