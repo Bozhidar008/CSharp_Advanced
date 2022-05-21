@@ -21,6 +21,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BasicStackOperations", "Bas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fast food", "Fast food\Fast food.csproj", "{E9D8A17B-A6D7-43C4-AA52-AECA454DBB2D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleTextEditor", "SimpleTextEditor\SimpleTextEditor.csproj", "{4AE37877-0166-4047-9292-3F3981DBC79E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Songs Queue", "Songs Queue\Songs Queue.csproj", "{E3F75247-CF78-41EF-8821-A0EA541ACF78}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,14 @@ Global
 		{E9D8A17B-A6D7-43C4-AA52-AECA454DBB2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E9D8A17B-A6D7-43C4-AA52-AECA454DBB2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E9D8A17B-A6D7-43C4-AA52-AECA454DBB2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AE37877-0166-4047-9292-3F3981DBC79E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AE37877-0166-4047-9292-3F3981DBC79E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AE37877-0166-4047-9292-3F3981DBC79E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AE37877-0166-4047-9292-3F3981DBC79E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3F75247-CF78-41EF-8821-A0EA541ACF78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3F75247-CF78-41EF-8821-A0EA541ACF78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3F75247-CF78-41EF-8821-A0EA541ACF78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3F75247-CF78-41EF-8821-A0EA541ACF78}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
