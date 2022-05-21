@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Primary Diagonal", "3. P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Symbol in Matrix", "4. Symbol in Matrix\4. Symbol in Matrix.csproj", "{61996F88-3669-4542-AC5F-D9CB422ED918}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Square With Maximum Sum", "5. Square With Maximum Sum\5. Square With Maximum Sum.csproj", "{D91EE9D8-79A8-4ADB-B003-73DBE6B98C64}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -121,6 +123,10 @@ Global
 		{61996F88-3669-4542-AC5F-D9CB422ED918}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61996F88-3669-4542-AC5F-D9CB422ED918}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61996F88-3669-4542-AC5F-D9CB422ED918}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D91EE9D8-79A8-4ADB-B003-73DBE6B98C64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D91EE9D8-79A8-4ADB-B003-73DBE6B98C64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D91EE9D8-79A8-4ADB-B003-73DBE6B98C64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D91EE9D8-79A8-4ADB-B003-73DBE6B98C64}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -144,6 +150,7 @@ Global
 		{ADCA0829-84BB-42CC-B60F-5AF91187C36F} = {75FE1863-5EC4-40C3-9C1E-D00123FF83DB}
 		{CF72E113-0CC5-4FDB-9601-B4E123EFAA0D} = {75FE1863-5EC4-40C3-9C1E-D00123FF83DB}
 		{61996F88-3669-4542-AC5F-D9CB422ED918} = {75FE1863-5EC4-40C3-9C1E-D00123FF83DB}
+		{D91EE9D8-79A8-4ADB-B003-73DBE6B98C64} = {75FE1863-5EC4-40C3-9C1E-D00123FF83DB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {467E9198-F9C3-467E-AA7C-7BC4F484590C}
