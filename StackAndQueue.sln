@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaxAndMinElement", "MaxAndM
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HotPotatoQueue", "HotPotatoQueue\HotPotatoQueue.csproj", "{8379C166-6A2D-4391-9471-32603206F72B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BalancedParenthesis", "BalancedParenthesis\BalancedParenthesis.csproj", "{00DBAB41-44F6-40CC-ABD6-0ACD774B1B28}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BalancedParenthesis", "BalancedParenthesis\BalancedParenthesis.csproj", "{00DBAB41-44F6-40CC-ABD6-0ACD774B1B28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicQueueOperations", "BasicQueueOperations\BasicQueueOperations.csproj", "{40429DA8-2167-402A-9B86-CC7B5D92C895}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{00DBAB41-44F6-40CC-ABD6-0ACD774B1B28}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{00DBAB41-44F6-40CC-ABD6-0ACD774B1B28}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{00DBAB41-44F6-40CC-ABD6-0ACD774B1B28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40429DA8-2167-402A-9B86-CC7B5D92C895}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40429DA8-2167-402A-9B86-CC7B5D92C895}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40429DA8-2167-402A-9B86-CC7B5D92C895}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40429DA8-2167-402A-9B86-CC7B5D92C895}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
