@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. Pascal Triangle", "7. Pa
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Multidimentional Arrays Exercices", "Multidimentional Arrays Exercices", "{B70E3DFB-957E-48AA-91DA-CDCB6B0F5E5E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.Diagonal Difference", "1.Diagonal Difference\1.Diagonal Difference.csproj", "{F03DF7FA-ED3C-4BC9-8D7A-9A05D7B437E6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{543FF756-6CCB-4452-B287-C7788164BFBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{543FF756-6CCB-4452-B287-C7788164BFBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{543FF756-6CCB-4452-B287-C7788164BFBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F03DF7FA-ED3C-4BC9-8D7A-9A05D7B437E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F03DF7FA-ED3C-4BC9-8D7A-9A05D7B437E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F03DF7FA-ED3C-4BC9-8D7A-9A05D7B437E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F03DF7FA-ED3C-4BC9-8D7A-9A05D7B437E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -167,6 +173,7 @@ Global
 		{D91EE9D8-79A8-4ADB-B003-73DBE6B98C64} = {75FE1863-5EC4-40C3-9C1E-D00123FF83DB}
 		{E96CEABF-AEE5-4387-A880-F75816A6541B} = {75FE1863-5EC4-40C3-9C1E-D00123FF83DB}
 		{543FF756-6CCB-4452-B287-C7788164BFBD} = {75FE1863-5EC4-40C3-9C1E-D00123FF83DB}
+		{F03DF7FA-ED3C-4BC9-8D7A-9A05D7B437E6} = {B70E3DFB-957E-48AA-91DA-CDCB6B0F5E5E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {467E9198-F9C3-467E-AA7C-7BC4F484590C}
