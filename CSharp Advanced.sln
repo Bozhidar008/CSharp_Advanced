@@ -35,31 +35,33 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Multidimentional Arrays", "
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "StacksAndQueues", "StacksAndQueues", "{D196FB75-FADF-4CD6-862E-9A6FC221DC7B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Sum Matrix Elements", "1. Sum Matrix Elements\1. Sum Matrix Elements.csproj", "{28C826DC-3FC1-4DB3-86BD-6DD5D9B81B9C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. Sum Matrix Elements", "1. Sum Matrix Elements\1. Sum Matrix Elements.csproj", "{28C826DC-3FC1-4DB3-86BD-6DD5D9B81B9C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Sum Matrix Columns", "2. Sum Matrix Columns\2. Sum Matrix Columns.csproj", "{ADCA0829-84BB-42CC-B60F-5AF91187C36F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. Sum Matrix Columns", "2. Sum Matrix Columns\2. Sum Matrix Columns.csproj", "{ADCA0829-84BB-42CC-B60F-5AF91187C36F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Primary Diagonal", "3. Primary Diagonal\3. Primary Diagonal.csproj", "{CF72E113-0CC5-4FDB-9601-B4E123EFAA0D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3. Primary Diagonal", "3. Primary Diagonal\3. Primary Diagonal.csproj", "{CF72E113-0CC5-4FDB-9601-B4E123EFAA0D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Symbol in Matrix", "4. Symbol in Matrix\4. Symbol in Matrix.csproj", "{61996F88-3669-4542-AC5F-D9CB422ED918}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4. Symbol in Matrix", "4. Symbol in Matrix\4. Symbol in Matrix.csproj", "{61996F88-3669-4542-AC5F-D9CB422ED918}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Square With Maximum Sum", "5. Square With Maximum Sum\5. Square With Maximum Sum.csproj", "{D91EE9D8-79A8-4ADB-B003-73DBE6B98C64}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5. Square With Maximum Sum", "5. Square With Maximum Sum\5. Square With Maximum Sum.csproj", "{D91EE9D8-79A8-4ADB-B003-73DBE6B98C64}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Jagged-Array Modification", "6. Jagged-Array Modification\6. Jagged-Array Modification.csproj", "{E96CEABF-AEE5-4387-A880-F75816A6541B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6. Jagged-Array Modification", "6. Jagged-Array Modification\6. Jagged-Array Modification.csproj", "{E96CEABF-AEE5-4387-A880-F75816A6541B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. Pascal Triangle", "7. Pascal Triangle\7. Pascal Triangle.csproj", "{543FF756-6CCB-4452-B287-C7788164BFBD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7. Pascal Triangle", "7. Pascal Triangle\7. Pascal Triangle.csproj", "{543FF756-6CCB-4452-B287-C7788164BFBD}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Multidimentional Arrays Exercices", "Multidimentional Arrays Exercices", "{B70E3DFB-957E-48AA-91DA-CDCB6B0F5E5E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.Diagonal Difference", "1.Diagonal Difference\1.Diagonal Difference.csproj", "{F03DF7FA-ED3C-4BC9-8D7A-9A05D7B437E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.Diagonal Difference", "1.Diagonal Difference\1.Diagonal Difference.csproj", "{F03DF7FA-ED3C-4BC9-8D7A-9A05D7B437E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Squares in Matrix", "2. Squares in Matrix\2. Squares in Matrix.csproj", "{B52B252D-9ED0-4387-AE01-9B93F66EF665}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. Squares in Matrix", "2. Squares in Matrix\2. Squares in Matrix.csproj", "{B52B252D-9ED0-4387-AE01-9B93F66EF665}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Maximal Sum", "3. Maximal Sum\3. Maximal Sum.csproj", "{FB2E6E4B-3338-4793-B2E3-B9C2DA24D539}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3. Maximal Sum", "3. Maximal Sum\3. Maximal Sum.csproj", "{FB2E6E4B-3338-4793-B2E3-B9C2DA24D539}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Matrix Shuffling", "4. Matrix Shuffling\4. Matrix Shuffling.csproj", "{DC6CEF6C-7D4A-4892-A9B6-B0504FD5C4FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4. Matrix Shuffling", "4. Matrix Shuffling\4. Matrix Shuffling.csproj", "{DC6CEF6C-7D4A-4892-A9B6-B0504FD5C4FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Snake Moves", "5. Snake Moves\5. Snake Moves.csproj", "{17A9D91F-9743-43EB-B02D-6CCFA3756F2E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5. Snake Moves", "5. Snake Moves\5. Snake Moves.csproj", "{17A9D91F-9743-43EB-B02D-6CCFA3756F2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Jagged Array Manipulator", "6. Jagged Array Manipulator\6. Jagged Array Manipulator.csproj", "{D2204167-2C37-4820-811B-81BB0E93EF01}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -171,6 +173,10 @@ Global
 		{17A9D91F-9743-43EB-B02D-6CCFA3756F2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17A9D91F-9743-43EB-B02D-6CCFA3756F2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17A9D91F-9743-43EB-B02D-6CCFA3756F2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2204167-2C37-4820-811B-81BB0E93EF01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2204167-2C37-4820-811B-81BB0E93EF01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2204167-2C37-4820-811B-81BB0E93EF01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2204167-2C37-4820-811B-81BB0E93EF01}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -202,6 +208,7 @@ Global
 		{FB2E6E4B-3338-4793-B2E3-B9C2DA24D539} = {B70E3DFB-957E-48AA-91DA-CDCB6B0F5E5E}
 		{DC6CEF6C-7D4A-4892-A9B6-B0504FD5C4FA} = {B70E3DFB-957E-48AA-91DA-CDCB6B0F5E5E}
 		{17A9D91F-9743-43EB-B02D-6CCFA3756F2E} = {B70E3DFB-957E-48AA-91DA-CDCB6B0F5E5E}
+		{D2204167-2C37-4820-811B-81BB0E93EF01} = {B70E3DFB-957E-48AA-91DA-CDCB6B0F5E5E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {467E9198-F9C3-467E-AA7C-7BC4F484590C}

@@ -11,11 +11,9 @@ namespace _6._Jagged_Array_Modification
             int[][] jagged = new int[rows][];
 
             for (int r = 0; r < rows; r++)
-            {
-               
+            {               
                 int[] columns = Console.ReadLine().Split(' ').Select(int.Parse).ToArray();
-                jagged[r]=columns;
-                               
+                jagged[r]=columns;                               
             }
             string input= Console.ReadLine();
             bool IsValid = true;
@@ -43,8 +41,6 @@ namespace _6._Jagged_Array_Modification
                 IsValid = true;
                 input = Console.ReadLine();
             }
-
-
             foreach (var item in jagged)
             {
                 Console.WriteLine(String.Join(" ", item));
