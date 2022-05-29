@@ -69,6 +69,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sets And Dictionaries", "Se
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountSameValuesinArray", "Sets and Dictionaries\CountSameValuesinArray.csproj", "{B9420AED-F70A-4CEF-B3FA-93256828D001}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Largest3Numbers", "Largest3Numbers\Largest3Numbers.csproj", "{9D48042E-9BA9-4A82-98CB-E2F1CC6FA0C6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -191,6 +193,10 @@ Global
 		{B9420AED-F70A-4CEF-B3FA-93256828D001}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9420AED-F70A-4CEF-B3FA-93256828D001}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9420AED-F70A-4CEF-B3FA-93256828D001}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D48042E-9BA9-4A82-98CB-E2F1CC6FA0C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D48042E-9BA9-4A82-98CB-E2F1CC6FA0C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D48042E-9BA9-4A82-98CB-E2F1CC6FA0C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D48042E-9BA9-4A82-98CB-E2F1CC6FA0C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -225,6 +231,7 @@ Global
 		{D2204167-2C37-4820-811B-81BB0E93EF01} = {B70E3DFB-957E-48AA-91DA-CDCB6B0F5E5E}
 		{D20D1888-6241-4148-B3D8-653EC54134F6} = {B70E3DFB-957E-48AA-91DA-CDCB6B0F5E5E}
 		{B9420AED-F70A-4CEF-B3FA-93256828D001} = {BC4C975B-0230-4736-B0B8-81511ECD5B8E}
+		{9D48042E-9BA9-4A82-98CB-E2F1CC6FA0C6} = {BC4C975B-0230-4736-B0B8-81511ECD5B8E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {467E9198-F9C3-467E-AA7C-7BC4F484590C}
