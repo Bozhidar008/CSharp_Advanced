@@ -67,15 +67,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7. Knight Game", "7. Knight
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sets And Dictionaries", "Sets And Dictionaries", "{BC4C975B-0230-4736-B0B8-81511ECD5B8E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountSameValuesinArray", "Sets and Dictionaries\CountSameValuesinArray.csproj", "{B9420AED-F70A-4CEF-B3FA-93256828D001}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountSameValuesinArray", "Sets and Dictionaries\CountSameValuesinArray.csproj", "{B9420AED-F70A-4CEF-B3FA-93256828D001}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Largest3Numbers", "Largest3Numbers\Largest3Numbers.csproj", "{9D48042E-9BA9-4A82-98CB-E2F1CC6FA0C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Largest3Numbers", "Largest3Numbers\Largest3Numbers.csproj", "{9D48042E-9BA9-4A82-98CB-E2F1CC6FA0C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AverageStudentGrade", "AverageStudentGrade\AverageStudentGrade.csproj", "{B6B2FC56-2A41-476F-89F5-9BFA2067D40B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AverageStudentGrade", "AverageStudentGrade\AverageStudentGrade.csproj", "{B6B2FC56-2A41-476F-89F5-9BFA2067D40B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Product Shop", "Product Shop\Product Shop.csproj", "{4B5EF9E1-CE9E-4BB4-88B2-DCADB633FB5D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Product Shop", "Product Shop\Product Shop.csproj", "{4B5EF9E1-CE9E-4BB4-88B2-DCADB633FB5D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cities by Continent and Country", "Cities by Continent and Country\Cities by Continent and Country.csproj", "{F4AB8D5B-C189-40BA-98B0-DEF6EB1269A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cities by Continent and Country", "Cities by Continent and Country\Cities by Continent and Country.csproj", "{F4AB8D5B-C189-40BA-98B0-DEF6EB1269A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Record Unique Names", "Record Unique Names\Record Unique Names.csproj", "{5EAFA053-831A-448F-9F1A-81E563EEC2BB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -215,6 +217,10 @@ Global
 		{F4AB8D5B-C189-40BA-98B0-DEF6EB1269A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4AB8D5B-C189-40BA-98B0-DEF6EB1269A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4AB8D5B-C189-40BA-98B0-DEF6EB1269A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EAFA053-831A-448F-9F1A-81E563EEC2BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EAFA053-831A-448F-9F1A-81E563EEC2BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EAFA053-831A-448F-9F1A-81E563EEC2BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EAFA053-831A-448F-9F1A-81E563EEC2BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -253,6 +259,7 @@ Global
 		{B6B2FC56-2A41-476F-89F5-9BFA2067D40B} = {BC4C975B-0230-4736-B0B8-81511ECD5B8E}
 		{4B5EF9E1-CE9E-4BB4-88B2-DCADB633FB5D} = {BC4C975B-0230-4736-B0B8-81511ECD5B8E}
 		{F4AB8D5B-C189-40BA-98B0-DEF6EB1269A0} = {BC4C975B-0230-4736-B0B8-81511ECD5B8E}
+		{5EAFA053-831A-448F-9F1A-81E563EEC2BB} = {BC4C975B-0230-4736-B0B8-81511ECD5B8E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {467E9198-F9C3-467E-AA7C-7BC4F484590C}
