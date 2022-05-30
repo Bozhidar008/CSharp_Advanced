@@ -79,6 +79,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cities by Continent and Cou
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Record Unique Names", "Record Unique Names\Record Unique Names.csproj", "{5EAFA053-831A-448F-9F1A-81E563EEC2BB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parking Lot", "Parking Lot\Parking Lot.csproj", "{202A64AD-4DEC-4855-A1D5-2A40BB748558}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -221,6 +223,10 @@ Global
 		{5EAFA053-831A-448F-9F1A-81E563EEC2BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5EAFA053-831A-448F-9F1A-81E563EEC2BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5EAFA053-831A-448F-9F1A-81E563EEC2BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{202A64AD-4DEC-4855-A1D5-2A40BB748558}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{202A64AD-4DEC-4855-A1D5-2A40BB748558}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{202A64AD-4DEC-4855-A1D5-2A40BB748558}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{202A64AD-4DEC-4855-A1D5-2A40BB748558}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -260,6 +266,7 @@ Global
 		{4B5EF9E1-CE9E-4BB4-88B2-DCADB633FB5D} = {BC4C975B-0230-4736-B0B8-81511ECD5B8E}
 		{F4AB8D5B-C189-40BA-98B0-DEF6EB1269A0} = {BC4C975B-0230-4736-B0B8-81511ECD5B8E}
 		{5EAFA053-831A-448F-9F1A-81E563EEC2BB} = {BC4C975B-0230-4736-B0B8-81511ECD5B8E}
+		{202A64AD-4DEC-4855-A1D5-2A40BB748558} = {BC4C975B-0230-4736-B0B8-81511ECD5B8E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {467E9198-F9C3-467E-AA7C-7BC4F484590C}
