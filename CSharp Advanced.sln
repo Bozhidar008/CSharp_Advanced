@@ -83,6 +83,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parking Lot", "Parking Lot\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftUni Party", "SoftUni Party\SoftUni Party.csproj", "{EC287A79-0C8C-4F4E-8C52-FD6F661FEC0E}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sets and Dictionaries Advanced - Exercise", "Sets and Dictionaries Advanced - Exercise", "{8E9DC129-9C61-4EFC-BAB6-9EE976C565EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Unique Usernames", "01. Unique Usernames\01. Unique Usernames.csproj", "{675B8A14-3D13-4371-971D-989FDE502842}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -233,6 +237,10 @@ Global
 		{EC287A79-0C8C-4F4E-8C52-FD6F661FEC0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC287A79-0C8C-4F4E-8C52-FD6F661FEC0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC287A79-0C8C-4F4E-8C52-FD6F661FEC0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{675B8A14-3D13-4371-971D-989FDE502842}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{675B8A14-3D13-4371-971D-989FDE502842}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{675B8A14-3D13-4371-971D-989FDE502842}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{675B8A14-3D13-4371-971D-989FDE502842}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -274,6 +282,7 @@ Global
 		{5EAFA053-831A-448F-9F1A-81E563EEC2BB} = {BC4C975B-0230-4736-B0B8-81511ECD5B8E}
 		{202A64AD-4DEC-4855-A1D5-2A40BB748558} = {BC4C975B-0230-4736-B0B8-81511ECD5B8E}
 		{EC287A79-0C8C-4F4E-8C52-FD6F661FEC0E} = {BC4C975B-0230-4736-B0B8-81511ECD5B8E}
+		{675B8A14-3D13-4371-971D-989FDE502842} = {8E9DC129-9C61-4EFC-BAB6-9EE976C565EF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {467E9198-F9C3-467E-AA7C-7BC4F484590C}
