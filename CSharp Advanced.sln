@@ -77,15 +77,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Product Shop", "Product Sho
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cities by Continent and Country", "Cities by Continent and Country\Cities by Continent and Country.csproj", "{F4AB8D5B-C189-40BA-98B0-DEF6EB1269A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Record Unique Names", "Record Unique Names\Record Unique Names.csproj", "{5EAFA053-831A-448F-9F1A-81E563EEC2BB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Record Unique Names", "Record Unique Names\Record Unique Names.csproj", "{5EAFA053-831A-448F-9F1A-81E563EEC2BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parking Lot", "Parking Lot\Parking Lot.csproj", "{202A64AD-4DEC-4855-A1D5-2A40BB748558}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Parking Lot", "Parking Lot\Parking Lot.csproj", "{202A64AD-4DEC-4855-A1D5-2A40BB748558}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftUni Party", "SoftUni Party\SoftUni Party.csproj", "{EC287A79-0C8C-4F4E-8C52-FD6F661FEC0E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SoftUni Party", "SoftUni Party\SoftUni Party.csproj", "{EC287A79-0C8C-4F4E-8C52-FD6F661FEC0E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sets and Dictionaries Advanced - Exercise", "Sets and Dictionaries Advanced - Exercise", "{8E9DC129-9C61-4EFC-BAB6-9EE976C565EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Unique Usernames", "01. Unique Usernames\01. Unique Usernames.csproj", "{675B8A14-3D13-4371-971D-989FDE502842}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Unique Usernames", "01. Unique Usernames\01. Unique Usernames.csproj", "{675B8A14-3D13-4371-971D-989FDE502842}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Sets of Elements", "02. Sets of Elements\02. Sets of Elements.csproj", "{AF399D8E-31DB-4039-A99D-591848A6CE93}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -241,6 +243,10 @@ Global
 		{675B8A14-3D13-4371-971D-989FDE502842}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{675B8A14-3D13-4371-971D-989FDE502842}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{675B8A14-3D13-4371-971D-989FDE502842}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF399D8E-31DB-4039-A99D-591848A6CE93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF399D8E-31DB-4039-A99D-591848A6CE93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF399D8E-31DB-4039-A99D-591848A6CE93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF399D8E-31DB-4039-A99D-591848A6CE93}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -283,6 +289,7 @@ Global
 		{202A64AD-4DEC-4855-A1D5-2A40BB748558} = {BC4C975B-0230-4736-B0B8-81511ECD5B8E}
 		{EC287A79-0C8C-4F4E-8C52-FD6F661FEC0E} = {BC4C975B-0230-4736-B0B8-81511ECD5B8E}
 		{675B8A14-3D13-4371-971D-989FDE502842} = {8E9DC129-9C61-4EFC-BAB6-9EE976C565EF}
+		{AF399D8E-31DB-4039-A99D-591848A6CE93} = {8E9DC129-9C61-4EFC-BAB6-9EE976C565EF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {467E9198-F9C3-467E-AA7C-7BC4F484590C}
