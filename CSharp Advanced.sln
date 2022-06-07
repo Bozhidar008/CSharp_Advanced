@@ -107,6 +107,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenLines", "EvenLines\Even
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LineNumbers", "LineNumbers1\LineNumbers.csproj", "{7D69D8EE-DE81-40ED-A416-44208A961268}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Copy Binary File", "Copy Binary File\Copy Binary File.csproj", "{4813180E-3316-4908-A3B9-EE1638EF6026}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -297,6 +299,10 @@ Global
 		{7D69D8EE-DE81-40ED-A416-44208A961268}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D69D8EE-DE81-40ED-A416-44208A961268}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D69D8EE-DE81-40ED-A416-44208A961268}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4813180E-3316-4908-A3B9-EE1638EF6026}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4813180E-3316-4908-A3B9-EE1638EF6026}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4813180E-3316-4908-A3B9-EE1638EF6026}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4813180E-3316-4908-A3B9-EE1638EF6026}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -348,6 +354,7 @@ Global
 		{9E169BCF-975C-4C15-AB48-2D720B2FD780} = {DF760813-8A25-4143-8308-F176F22EEDB6}
 		{B6ECF135-C31F-4549-9E2E-FABE6341DD1F} = {DF760813-8A25-4143-8308-F176F22EEDB6}
 		{7D69D8EE-DE81-40ED-A416-44208A961268} = {DF760813-8A25-4143-8308-F176F22EEDB6}
+		{4813180E-3316-4908-A3B9-EE1638EF6026} = {DF760813-8A25-4143-8308-F176F22EEDB6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {467E9198-F9C3-467E-AA7C-7BC4F484590C}
