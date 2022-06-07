@@ -101,7 +101,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Streams, Files and Director
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OddLines", "OddLines\OddLines.csproj", "{1B6FDFF8-BBAD-47A4-92E4-E80332580F3A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LineNumbers", "LineNumbers\LineNumbers.csproj", "{9E169BCF-975C-4C15-AB48-2D720B2FD780}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LineNumbers", "LineNumbers\LineNumbers.csproj", "{9E169BCF-975C-4C15-AB48-2D720B2FD780}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenLines", "EvenLines\EvenLines.csproj", "{B6ECF135-C31F-4549-9E2E-FABE6341DD1F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -285,6 +287,10 @@ Global
 		{9E169BCF-975C-4C15-AB48-2D720B2FD780}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E169BCF-975C-4C15-AB48-2D720B2FD780}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E169BCF-975C-4C15-AB48-2D720B2FD780}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6ECF135-C31F-4549-9E2E-FABE6341DD1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6ECF135-C31F-4549-9E2E-FABE6341DD1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6ECF135-C31F-4549-9E2E-FABE6341DD1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6ECF135-C31F-4549-9E2E-FABE6341DD1F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -334,6 +340,7 @@ Global
 		{E1EBC97E-C9DF-4331-BEA5-75659FD01042} = {8E9DC129-9C61-4EFC-BAB6-9EE976C565EF}
 		{1B6FDFF8-BBAD-47A4-92E4-E80332580F3A} = {DF760813-8A25-4143-8308-F176F22EEDB6}
 		{9E169BCF-975C-4C15-AB48-2D720B2FD780} = {DF760813-8A25-4143-8308-F176F22EEDB6}
+		{B6ECF135-C31F-4549-9E2E-FABE6341DD1F} = {DF760813-8A25-4143-8308-F176F22EEDB6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {467E9198-F9C3-467E-AA7C-7BC4F484590C}
