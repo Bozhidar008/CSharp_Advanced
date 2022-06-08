@@ -103,15 +103,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OddLines", "OddLines\OddLin
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Line_Numbers", "LineNumbers\Line_Numbers.csproj", "{9E169BCF-975C-4C15-AB48-2D720B2FD780}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenLines", "EvenLines\EvenLines.csproj", "{B6ECF135-C31F-4549-9E2E-FABE6341DD1F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EvenLines", "EvenLines\EvenLines.csproj", "{B6ECF135-C31F-4549-9E2E-FABE6341DD1F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LineNumbers", "LineNumbers1\LineNumbers.csproj", "{7D69D8EE-DE81-40ED-A416-44208A961268}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LineNumbers", "LineNumbers1\LineNumbers.csproj", "{7D69D8EE-DE81-40ED-A416-44208A961268}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Copy Binary File", "Copy Binary File\Copy Binary File.csproj", "{4813180E-3316-4908-A3B9-EE1638EF6026}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Copy Binary File", "Copy Binary File\Copy Binary File.csproj", "{4813180E-3316-4908-A3B9-EE1638EF6026}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopyDirectory", "CopyDirectory\CopyDirectory.csproj", "{C602FA18-C5CA-4858-BF1B-B9738FFC180B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CopyDirectory", "CopyDirectory\CopyDirectory.csproj", "{C602FA18-C5CA-4858-BF1B-B9738FFC180B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectoryTraversal", "DirectoryTraversal\DirectoryTraversal.csproj", "{5C1AC01A-78B0-4B30-A482-06410B9055B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DirectoryTraversal", "DirectoryTraversal\DirectoryTraversal.csproj", "{5C1AC01A-78B0-4B30-A482-06410B9055B5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZipAndExtract", "ZipAndExtract\ZipAndExtract.csproj", "{7F4F8637-A824-433D-A1B5-C344AD90F162}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FunctionalProgramming", "FunctionalProgramming", "{D8E57B69-583B-4F54-B4B3-6DC3C45AA86A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Sort Even Numbers", "1. Sort Even Numbers\1. Sort Even Numbers.csproj", "{9B1064B5-C5B7-4970-8C4E-8CF7A1932815}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -315,6 +321,14 @@ Global
 		{5C1AC01A-78B0-4B30-A482-06410B9055B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C1AC01A-78B0-4B30-A482-06410B9055B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C1AC01A-78B0-4B30-A482-06410B9055B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F4F8637-A824-433D-A1B5-C344AD90F162}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F4F8637-A824-433D-A1B5-C344AD90F162}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F4F8637-A824-433D-A1B5-C344AD90F162}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F4F8637-A824-433D-A1B5-C344AD90F162}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B1064B5-C5B7-4970-8C4E-8CF7A1932815}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B1064B5-C5B7-4970-8C4E-8CF7A1932815}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B1064B5-C5B7-4970-8C4E-8CF7A1932815}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B1064B5-C5B7-4970-8C4E-8CF7A1932815}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -369,6 +383,8 @@ Global
 		{4813180E-3316-4908-A3B9-EE1638EF6026} = {DF760813-8A25-4143-8308-F176F22EEDB6}
 		{C602FA18-C5CA-4858-BF1B-B9738FFC180B} = {DF760813-8A25-4143-8308-F176F22EEDB6}
 		{5C1AC01A-78B0-4B30-A482-06410B9055B5} = {DF760813-8A25-4143-8308-F176F22EEDB6}
+		{7F4F8637-A824-433D-A1B5-C344AD90F162} = {DF760813-8A25-4143-8308-F176F22EEDB6}
+		{9B1064B5-C5B7-4970-8C4E-8CF7A1932815} = {D8E57B69-583B-4F54-B4B3-6DC3C45AA86A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {467E9198-F9C3-467E-AA7C-7BC4F484590C}
