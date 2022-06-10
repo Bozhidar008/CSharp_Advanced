@@ -121,11 +121,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. Sort Even Numbers", "1. 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Sum Numbers", "02. Sum Numbers\02. Sum Numbers.csproj", "{3D2A22EC-A92F-4D88-BEEC-4353B7DEE3A8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Count Uppercase Words", "03. Count Uppercase Words\03. Count Uppercase Words.csproj", "{89F91392-14DC-4C7D-9BE8-62139CFF8674}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Count Uppercase Words", "03. Count Uppercase Words\03. Count Uppercase Words.csproj", "{89F91392-14DC-4C7D-9BE8-62139CFF8674}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Add VAT", "04. Add VAT\04. Add VAT.csproj", "{887E2BF7-1595-45D9-9713-95834CE1F69B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Add VAT", "04. Add VAT\04. Add VAT.csproj", "{887E2BF7-1595-45D9-9713-95834CE1F69B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Filter By Age", "05. Filter By Age\05. Filter By Age.csproj", "{FADCB590-4A4B-4BFF-8833-CE7BD28B0AE0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Filter By Age", "05. Filter By Age\05. Filter By Age.csproj", "{FADCB590-4A4B-4BFF-8833-CE7BD28B0AE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.ActionPoint", "1.ActionPoint\1.ActionPoint.csproj", "{55AF2C4B-B909-4D13-9861-FDDF9A52AF41}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -353,6 +355,10 @@ Global
 		{FADCB590-4A4B-4BFF-8833-CE7BD28B0AE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FADCB590-4A4B-4BFF-8833-CE7BD28B0AE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FADCB590-4A4B-4BFF-8833-CE7BD28B0AE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55AF2C4B-B909-4D13-9861-FDDF9A52AF41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55AF2C4B-B909-4D13-9861-FDDF9A52AF41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55AF2C4B-B909-4D13-9861-FDDF9A52AF41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55AF2C4B-B909-4D13-9861-FDDF9A52AF41}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -413,6 +419,7 @@ Global
 		{89F91392-14DC-4C7D-9BE8-62139CFF8674} = {D8E57B69-583B-4F54-B4B3-6DC3C45AA86A}
 		{887E2BF7-1595-45D9-9713-95834CE1F69B} = {D8E57B69-583B-4F54-B4B3-6DC3C45AA86A}
 		{FADCB590-4A4B-4BFF-8833-CE7BD28B0AE0} = {D8E57B69-583B-4F54-B4B3-6DC3C45AA86A}
+		{55AF2C4B-B909-4D13-9861-FDDF9A52AF41} = {D8E57B69-583B-4F54-B4B3-6DC3C45AA86A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {467E9198-F9C3-467E-AA7C-7BC4F484590C}
