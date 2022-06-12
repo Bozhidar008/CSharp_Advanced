@@ -127,15 +127,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Add VAT", "04. Add VAT\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Filter By Age", "05. Filter By Age\05. Filter By Age.csproj", "{FADCB590-4A4B-4BFF-8833-CE7BD28B0AE0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.ActionPoint", "1.ActionPoint\1.ActionPoint.csproj", "{55AF2C4B-B909-4D13-9861-FDDF9A52AF41}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.ActionPoint", "1.ActionPoint\1.ActionPoint.csproj", "{55AF2C4B-B909-4D13-9861-FDDF9A52AF41}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Knights of Honor", "02. Knights of Honor\02. Knights of Honor.csproj", "{4DF5ABA8-2086-4515-ACB7-0624DC7FDC53}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Knights of Honor", "02. Knights of Honor\02. Knights of Honor.csproj", "{4DF5ABA8-2086-4515-ACB7-0624DC7FDC53}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Custom Min Function", "03. Custom Min Function\03. Custom Min Function.csproj", "{B4E7571D-EB54-49AE-8F59-7122E283DB03}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Custom Min Function", "03. Custom Min Function\03. Custom Min Function.csproj", "{B4E7571D-EB54-49AE-8F59-7122E283DB03}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Find Evens or Odds", "04. Find Evens or Odds\04. Find Evens or Odds.csproj", "{D5A82CC7-A224-4610-B6E7-358048842A34}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Find Evens or Odds", "04. Find Evens or Odds\04. Find Evens or Odds.csproj", "{D5A82CC7-A224-4610-B6E7-358048842A34}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Applied Arithmetics", "5. Applied Arithmetics\5. Applied Arithmetics.csproj", "{446FCDE7-FA2C-4648-9E38-E13685E64BCD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5. Applied Arithmetics", "5. Applied Arithmetics\5. Applied Arithmetics.csproj", "{446FCDE7-FA2C-4648-9E38-E13685E64BCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Reverse And Exclude", "06. Reverse And Exclude\06. Reverse And Exclude.csproj", "{E56BFED1-EE01-4256-AADC-C067FFD71AC8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -383,6 +385,10 @@ Global
 		{446FCDE7-FA2C-4648-9E38-E13685E64BCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{446FCDE7-FA2C-4648-9E38-E13685E64BCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{446FCDE7-FA2C-4648-9E38-E13685E64BCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E56BFED1-EE01-4256-AADC-C067FFD71AC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E56BFED1-EE01-4256-AADC-C067FFD71AC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E56BFED1-EE01-4256-AADC-C067FFD71AC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E56BFED1-EE01-4256-AADC-C067FFD71AC8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -448,6 +454,7 @@ Global
 		{B4E7571D-EB54-49AE-8F59-7122E283DB03} = {D8E57B69-583B-4F54-B4B3-6DC3C45AA86A}
 		{D5A82CC7-A224-4610-B6E7-358048842A34} = {D8E57B69-583B-4F54-B4B3-6DC3C45AA86A}
 		{446FCDE7-FA2C-4648-9E38-E13685E64BCD} = {D8E57B69-583B-4F54-B4B3-6DC3C45AA86A}
+		{E56BFED1-EE01-4256-AADC-C067FFD71AC8} = {D8E57B69-583B-4F54-B4B3-6DC3C45AA86A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {467E9198-F9C3-467E-AA7C-7BC4F484590C}
