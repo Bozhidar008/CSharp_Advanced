@@ -145,9 +145,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08. List Of Predicates", "0
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09. Predicate Party!", "09. Predicate Party!\09. Predicate Party!.csproj", "{C7B1B3C2-5300-4C98-92C1-0A3AD788F0C9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. The Party Reservation Filter Module", "10. The Party Reservation Filter Module\10. The Party Reservation Filter Module.csproj", "{B51FD56A-EA6D-44B1-AA34-E010F636C7E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10. The Party Reservation Filter Module", "10. The Party Reservation Filter Module\10. The Party Reservation Filter Module.csproj", "{B51FD56A-EA6D-44B1-AA34-E010F636C7E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. TriFunction", "11. TriFunction\11. TriFunction.csproj", "{A5F0B41B-8671-43C3-93C2-E777B38660A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11. TriFunction", "11. TriFunction\11. TriFunction.csproj", "{A5F0B41B-8671-43C3-93C2-E777B38660A1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DefiningClassesLab", "DefiningClassesLab", "{ED9D0383-AA3B-4E1C-8479-1DD7F48664B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Car", "01.Car\01.Car.csproj", "{9447A506-0F8E-4A90-A55F-E24D8319E938}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -419,6 +423,10 @@ Global
 		{A5F0B41B-8671-43C3-93C2-E777B38660A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A5F0B41B-8671-43C3-93C2-E777B38660A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A5F0B41B-8671-43C3-93C2-E777B38660A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9447A506-0F8E-4A90-A55F-E24D8319E938}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9447A506-0F8E-4A90-A55F-E24D8319E938}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9447A506-0F8E-4A90-A55F-E24D8319E938}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9447A506-0F8E-4A90-A55F-E24D8319E938}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -490,6 +498,7 @@ Global
 		{C7B1B3C2-5300-4C98-92C1-0A3AD788F0C9} = {D8E57B69-583B-4F54-B4B3-6DC3C45AA86A}
 		{B51FD56A-EA6D-44B1-AA34-E010F636C7E9} = {D8E57B69-583B-4F54-B4B3-6DC3C45AA86A}
 		{A5F0B41B-8671-43C3-93C2-E777B38660A1} = {D8E57B69-583B-4F54-B4B3-6DC3C45AA86A}
+		{9447A506-0F8E-4A90-A55F-E24D8319E938} = {ED9D0383-AA3B-4E1C-8479-1DD7F48664B4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {467E9198-F9C3-467E-AA7C-7BC4F484590C}
