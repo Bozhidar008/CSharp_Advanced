@@ -173,11 +173,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpinionPoll", "OpinionPoll\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DateModifier", "DateModifier\DateModifier.csproj", "{26246105-9951-4C5D-BD9C-37C80B6C2D80}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BirthdayCelebration", "BirthdayCelebration\BirthdayCelebration.csproj", "{78D8DF5E-B08E-492B-B18A-5A26FFF03899}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BirthdayCelebration", "BirthdayCelebration\BirthdayCelebration.csproj", "{78D8DF5E-B08E-492B-B18A-5A26FFF03899}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BirthdayCelebration 2", "BirthdayCelebration 2\BirthdayCelebration 2.csproj", "{601D954A-C60A-4DD1-B8C0-2965C004ECD8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BirthdayCelebration 2", "BirthdayCelebration 2\BirthdayCelebration 2.csproj", "{601D954A-C60A-4DD1-B8C0-2965C004ECD8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheBattleOfFiveArmies", "TheBattleOfFiveArmies\TheBattleOfFiveArmies.csproj", "{9B82CA48-BB5C-4F83-9DC5-0036A8F0B979}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TheBattleOfFiveArmies", "TheBattleOfFiveArmies\TheBattleOfFiveArmies.csproj", "{9B82CA48-BB5C-4F83-9DC5-0036A8F0B979}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StreetRacingSkeleton", "StreetRacingSkeleton\StreetRacingSkeleton.csproj", "{CF314EC6-A58A-4224-B64B-65D8EB92D2D9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exam CSharp Advanced", "Exam CSharp Advanced", "{FE435E54-ADF3-4FDB-9E89-D363EFC4FD58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.TilesMaster", "01.TilesMaster\01.TilesMaster.csproj", "{CA45580D-8DB6-4D7D-A948-291DCD2942D0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -501,6 +507,14 @@ Global
 		{9B82CA48-BB5C-4F83-9DC5-0036A8F0B979}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B82CA48-BB5C-4F83-9DC5-0036A8F0B979}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B82CA48-BB5C-4F83-9DC5-0036A8F0B979}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF314EC6-A58A-4224-B64B-65D8EB92D2D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF314EC6-A58A-4224-B64B-65D8EB92D2D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF314EC6-A58A-4224-B64B-65D8EB92D2D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF314EC6-A58A-4224-B64B-65D8EB92D2D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA45580D-8DB6-4D7D-A948-291DCD2942D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA45580D-8DB6-4D7D-A948-291DCD2942D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA45580D-8DB6-4D7D-A948-291DCD2942D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA45580D-8DB6-4D7D-A948-291DCD2942D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -585,6 +599,8 @@ Global
 		{78D8DF5E-B08E-492B-B18A-5A26FFF03899} = {8B162284-B84D-4D9A-8876-5E129FC3253D}
 		{601D954A-C60A-4DD1-B8C0-2965C004ECD8} = {8B162284-B84D-4D9A-8876-5E129FC3253D}
 		{9B82CA48-BB5C-4F83-9DC5-0036A8F0B979} = {8B162284-B84D-4D9A-8876-5E129FC3253D}
+		{CF314EC6-A58A-4224-B64B-65D8EB92D2D9} = {8B162284-B84D-4D9A-8876-5E129FC3253D}
+		{CA45580D-8DB6-4D7D-A948-291DCD2942D0} = {FE435E54-ADF3-4FDB-9E89-D363EFC4FD58}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {467E9198-F9C3-467E-AA7C-7BC4F484590C}
